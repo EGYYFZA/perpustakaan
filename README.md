@@ -1,5 +1,3 @@
-<img src=".github/media/cover.png" alt="Perpustakaan — library interface starter" width="1280">
-
 # Perpustakaan
 
 A React and Vite starting point for a library application. The current interface is still the starter screen.
